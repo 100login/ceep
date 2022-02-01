@@ -38,5 +38,4 @@ class App extends Component {
   }
 }
 
-//new ListaDeNotas({notas:this.notas})
 export default App;
