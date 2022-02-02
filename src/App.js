@@ -4,6 +4,7 @@ import FormularioCadastro from "./components/FormularioCadastro";
 import ListaDeCategorias from "./components/ListaDeCategorias";
 import "./assets/App.css";
 import "./assets/index.css";
+//testando 
 //to no leandro de novo
 import Categorias from "./dados/Categorias";
 import ArrayDeNotas from "./dados/Notas";
