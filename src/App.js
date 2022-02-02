@@ -16,7 +16,7 @@ class App extends Component {
     this.notas = new ArrayDeNotas();
     
   }
-
+//novo
   render() {
     return (
       <section className="conteudo">
