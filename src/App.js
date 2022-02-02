@@ -6,6 +6,7 @@ import "./assets/App.css";
 import "./assets/index.css";
 import Categorias from "./dados/Categorias";
 import ArrayDeNotas from "./dados/Notas";
+//leandro
 class App extends Component {
   constructor() {
     super();
