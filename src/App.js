@@ -8,6 +8,7 @@ import "./assets/index.css";
 import Categorias from "./dados/Categorias";
 import ArrayDeNotas from "./dados/Notas";
 //leandro
+//kkk
 class App extends Component {
   constructor() {
     super();
