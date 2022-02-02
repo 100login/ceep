@@ -10,6 +10,7 @@ import Categorias from "./dados/Categorias";
 import ArrayDeNotas from "./dados/Notas";
 //leandro
 //kkk
+//afu
 class App extends Component {
   constructor() {
     super();
